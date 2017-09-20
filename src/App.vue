@@ -172,6 +172,6 @@ a
   color: #fff
   margin: 0px
   padding: 15px 0 15px 0
-  box-shadow: 0 0 4px rgba(0,0,0,.14), 0 4px 8px rgba(0,0,0,.28)
+  box-shadow: 0 4px 8px rgba(0,0,0,.28)
 
 </style>
